@@ -1,0 +1,26 @@
+{
+  "records": [
+    
+      {"id":1,"name":"naveen","salary":45000},
+      {"id":2,"name":"VINAY","salary":35000},
+      {"id":3,"name":"KUMAR","salary":45000},
+      {"id":4,"name":"sheerla","salary":45000},
+      {"id":5,"name":"shiva","salary":45000},
+      {"id":6,"name":"Raju","salary":3000},
+      {"id":7,"name":"Arun","salary":45000},
+      {"id":8,"name":"Madhu","salary":45000},
+      {"id":9,"name":"Bhanu","salary":45000},
+      {"id":10,"name":"Praveen","salary":45000},
+      {"id":11,"name":"Vijaya","salary":2500},
+      {"id":12,"name":"Karuna","salary":3000},
+      {"id":13,"name":"Lokesh","salary":45000},
+      {"id":14,"name":"Shareef","salary":45000},
+      {"id":15,"name":"kumar","salary":35000},
+      {"id":16,"name":"bhanuk","salary":45000},
+      {"id":17,"name":"Navuunkumar","salary":45000},
+      {"id":18,"name":" prasad","salary":45000},
+      {"id":19,"name":"Adithya","salary":15000},
+      {"id":20,"name":"Sathish","salary":20000}
+  ]
+  
+}
